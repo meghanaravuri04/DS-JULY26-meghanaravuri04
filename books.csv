@@ -1,0 +1,11 @@
+Book ID,Book Name,Author,Category,Price,Status
+101,Python Basics,Ravi,Programming,450,Available
+102,Data Science Handbook,John,Technology,600,Issued
+103,Machine Learning Basics,Anil,Technology,550,Available
+104,Database Management,Kiran,Database,500,Available
+105,Web Development,Sneha,Programming,400,Issued
+106,Operating Systems,Meghana,Computer Science,650,Available
+107,Computer Networks,Rahul,Computer Science,580,Available
+108,Java Programming,Priya,Programming,520,Available
+109,Software Engineering,Arjun,Engineering,450,Issued
+110,Artificial Intelligence,Divya,Technology,700,Available
