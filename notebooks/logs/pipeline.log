@@ -1,0 +1,80 @@
+2026-10-09 11:54:35 | INFO     | motor_insurance | [PIPELINE] Loading all tables from ../data/raw
+2026-10-09 11:54:36 | INFO     | motor_insurance | [PIPELINE] Loaded customers.csv -> shape (20000, 8)
+2026-10-09 11:54:36 | INFO     | motor_insurance | [PIPELINE] Loaded vehicles.csv -> shape (25000, 8)
+2026-10-09 11:54:36 | INFO     | motor_insurance | [PIPELINE] Loaded policies.csv -> shape (25000, 10)
+2026-10-09 11:54:36 | INFO     | motor_insurance | [PIPELINE] Loaded claims.csv -> shape (10000, 12)
+2026-10-09 11:54:36 | INFO     | motor_insurance | [PIPELINE] Loaded payments.csv -> shape (7000, 7)
+2026-10-09 11:56:21 | INFO     | motor_insurance | [PIPELINE] Starting validation of all tables
+2026-10-09 11:56:22 | INFO     | motor_insurance | [PIPELINE] All validations passed
+2026-10-09 11:56:22 | INFO     | motor_insurance | [PIPELINE] Running full cleaning pipeline
+2026-10-09 11:56:22 | INFO     | motor_insurance | [PIPELINE] Missing values handled
+2026-10-09 11:56:22 | INFO     | motor_insurance | [PIPELINE] customers: removed 0 duplicate rows
+2026-10-09 11:56:22 | INFO     | motor_insurance | [PIPELINE] vehicles: removed 0 duplicate rows
+2026-10-09 11:56:23 | INFO     | motor_insurance | [PIPELINE] policies: removed 0 duplicate rows
+2026-10-09 11:56:23 | INFO     | motor_insurance | [PIPELINE] claims: removed 0 duplicate rows
+2026-10-09 11:56:23 | INFO     | motor_insurance | [PIPELINE] payments: removed 0 duplicate rows
+2026-10-09 11:56:23 | INFO     | motor_insurance | [PIPELINE] Text columns cleaned
+2026-10-09 11:56:24 | INFO     | motor_insurance | [PIPELINE] Date columns converted
+2026-10-09 11:56:24 | INFO     | motor_insurance | [PIPELINE] Numeric columns validated
+2026-10-09 11:56:24 | INFO     | motor_insurance | [PIPELINE] Business rules enforced
+2026-10-09 11:56:24 | INFO     | motor_insurance | [PIPELINE] Derived columns created
+2026-10-09 12:10:27 | INFO     | motor_insurance | [PIPELINE] Loading all tables from ../data/raw
+2026-10-09 12:10:27 | INFO     | motor_insurance | [PIPELINE] Loaded customers.csv -> shape (20000, 8)
+2026-10-09 12:10:27 | INFO     | motor_insurance | [PIPELINE] Loaded vehicles.csv -> shape (25000, 8)
+2026-10-09 12:10:27 | INFO     | motor_insurance | [PIPELINE] Loaded policies.csv -> shape (25000, 10)
+2026-10-09 12:10:27 | INFO     | motor_insurance | [PIPELINE] Loaded claims.csv -> shape (10000, 12)
+2026-10-09 12:10:27 | INFO     | motor_insurance | [PIPELINE] Loaded payments.csv -> shape (7000, 7)
+2026-10-09 12:10:28 | INFO     | motor_insurance | [PIPELINE] Starting validation of all tables
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] All validations passed
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Running full cleaning pipeline
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Missing values handled
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] customers: removed 0 duplicate rows
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] vehicles: removed 0 duplicate rows
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] policies: removed 0 duplicate rows
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] claims: removed 0 duplicate rows
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] payments: removed 0 duplicate rows
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Text columns cleaned
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Date columns converted
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Numeric columns validated
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Business rules enforced
+2026-10-09 12:10:29 | INFO     | motor_insurance | [PIPELINE] Derived columns created
+2026-10-09 12:12:08 | INFO     | motor_insurance | [PIPELINE] Loading all tables from ../data/raw
+2026-10-09 12:12:08 | INFO     | motor_insurance | [PIPELINE] Loaded customers.csv -> shape (20000, 8)
+2026-10-09 12:12:08 | INFO     | motor_insurance | [PIPELINE] Loaded vehicles.csv -> shape (25000, 8)
+2026-10-09 12:12:08 | INFO     | motor_insurance | [PIPELINE] Loaded policies.csv -> shape (25000, 10)
+2026-10-09 12:12:08 | INFO     | motor_insurance | [PIPELINE] Loaded claims.csv -> shape (10000, 12)
+2026-10-09 12:12:09 | INFO     | motor_insurance | [PIPELINE] Loaded payments.csv -> shape (7000, 7)
+2026-10-09 12:12:09 | INFO     | motor_insurance | [PIPELINE] Starting validation of all tables
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] All validations passed
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] Running full cleaning pipeline
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] Missing values handled
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] customers: removed 0 duplicate rows
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] vehicles: removed 0 duplicate rows
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] policies: removed 0 duplicate rows
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] claims: removed 0 duplicate rows
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] payments: removed 0 duplicate rows
+2026-10-09 12:12:10 | INFO     | motor_insurance | [PIPELINE] Text columns cleaned
+2026-10-09 12:12:11 | INFO     | motor_insurance | [PIPELINE] Date columns converted
+2026-10-09 12:12:11 | INFO     | motor_insurance | [PIPELINE] Numeric columns validated
+2026-10-09 12:12:11 | INFO     | motor_insurance | [PIPELINE] Business rules enforced
+2026-10-09 12:12:11 | INFO     | motor_insurance | [PIPELINE] Derived columns created
+2026-10-09 12:16:02 | INFO     | motor_insurance | [PIPELINE] Loading all tables from ../data/raw
+2026-10-09 12:16:02 | INFO     | motor_insurance | [PIPELINE] Loaded customers.csv -> shape (20000, 8)
+2026-10-09 12:16:02 | INFO     | motor_insurance | [PIPELINE] Loaded vehicles.csv -> shape (25000, 8)
+2026-10-09 12:16:02 | INFO     | motor_insurance | [PIPELINE] Loaded policies.csv -> shape (25000, 10)
+2026-10-09 12:16:02 | INFO     | motor_insurance | [PIPELINE] Loaded claims.csv -> shape (10000, 12)
+2026-10-09 12:16:03 | INFO     | motor_insurance | [PIPELINE] Loaded payments.csv -> shape (7000, 7)
+2026-10-09 12:16:03 | INFO     | motor_insurance | [PIPELINE] Starting validation of all tables
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] All validations passed
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] Running full cleaning pipeline
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] Missing values handled
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] customers: removed 0 duplicate rows
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] vehicles: removed 0 duplicate rows
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] policies: removed 0 duplicate rows
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] claims: removed 0 duplicate rows
+2026-10-09 12:16:04 | INFO     | motor_insurance | [PIPELINE] payments: removed 0 duplicate rows
+2026-10-09 12:16:05 | INFO     | motor_insurance | [PIPELINE] Text columns cleaned
+2026-10-09 12:16:05 | INFO     | motor_insurance | [PIPELINE] Date columns converted
+2026-10-09 12:16:05 | INFO     | motor_insurance | [PIPELINE] Numeric columns validated
+2026-10-09 12:16:05 | INFO     | motor_insurance | [PIPELINE] Business rules enforced
+2026-10-09 12:16:05 | INFO     | motor_insurance | [PIPELINE] Derived columns created
